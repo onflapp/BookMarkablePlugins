@@ -6,7 +6,7 @@ Downloading and modifying one of the [sample plugins](https://github.com/onflapp
 
 # Sample Plugin
 
-...
+....
 
 # Where do I find the Scripts folder?
 

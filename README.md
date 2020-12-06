@@ -26,7 +26,7 @@ cp -r ./BookMarkablePlugins/* ~/Library/Application\ Scripts/com.onflapp.BookMar
 
 ## Create new plugin
 
-A BookMarkable plugin is AppleScript or a shell script. The plugins are intended to be changed and modified by advanced users. For more information see https://onflapp.github.io/BookMarkablePlugins/.
+A BookMarkable plugin is AppleScript or a shell script. The plugins are intended to be changed and modified by advanced users.  Description how to (create new plugin)[https://onflapp.github.io/BookMarkablePlugins/].
 
 ## Troubleshooting
 

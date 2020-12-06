@@ -1,6 +1,10 @@
+# BookMarkable
+
+Create links to documents, files or folders. [BookMarkable](https://onflapp.github.io/blog/pages/BookMarkable.html?utm_source=git) can also support other items that are not usually bookmark-able like emails, calendar events or even database entries with help of application-specific plugin. BookMarkable makes it easy to embed links in other documents or applications.
+
 # BookMarkablePlugins
 
-Useful plugins and samples for BookMarkable app.
+Useful plugins and samples for [BookMarkable](https://onflapp.github.io/blog/pages/BookMarkable.html?utm_source=git) app.
 
 There are two types of plugins; one that extracts URL from the frontmost app (or creates custom URL) and one that handles custom URL schemes.
 

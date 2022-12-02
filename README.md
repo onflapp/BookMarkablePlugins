@@ -10,9 +10,8 @@ Create links to documents, files or folders. [BookMarkable](https://onflapp.gith
 
 ## Install plugins directly from GIT
 ```
-git clone https://github.com/onflapp/BookMarkablePlugins.git
-cp -r ./BookMarkablePlugins/*    ~/Library/Application\ Scripts/com.onflapp.BookMarkable
-cp -r ./BookMarkablePlugins/.git ~/Library/Application\ Scripts/com.onflapp.BookMarkable
+cd ~/Library/Application\ Scripts/com.onflapp.BookMarkable
+git clone https://github.com/onflapp/BookMarkablePlugins.git .
 ```
 
 # BookMarkablePlugins
